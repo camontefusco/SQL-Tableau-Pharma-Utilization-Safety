@@ -1,0 +1,51 @@
+drug_id,drug_name,atc_code,manufacturer,approval_date
+1,Drug_1,Vr10,"Martin, Rose and Obrien",2016-05-26
+2,Drug_2,iV33,Hickman Ltd,2017-02-08
+3,Drug_3,fL18,"Harris, Collins and Carney",2022-09-29
+4,Drug_4,bf60,"Brooks, Lam and Hayes",2020-03-30
+5,Drug_5,GM33,Walker LLC,2016-04-14
+6,Drug_6,mT08,Chapman and Sons,2015-08-07
+7,Drug_7,oC86,"Robinson, Jones and Welch",2021-03-18
+8,Drug_8,Za94,Jones Inc,2017-10-05
+9,Drug_9,vr26,Jones-Young,2019-12-29
+10,Drug_10,Wv23,"Washington, Ryan and Cummings",2018-04-15
+11,Drug_11,yg11,"Johnston, Sanchez and Kennedy",2023-01-20
+12,Drug_12,Mq55,Lee-Davis,2022-10-24
+13,Drug_13,Ih07,Gomez-Jenkins,2015-09-14
+14,Drug_14,Js61,"Brown, Valdez and Lucas",2017-06-10
+15,Drug_15,Km95,Powell LLC,2016-10-25
+16,Drug_16,Qo10,Wright and Sons,2018-01-27
+17,Drug_17,og41,"West, Henderson and Ramirez",2016-02-24
+18,Drug_18,DO64,Baxter Inc,2021-10-26
+19,Drug_19,xw52,Morton-Chase,2018-01-21
+20,Drug_20,SR34,Williams PLC,2022-11-06
+21,Drug_21,Ok19,Novak and Sons,2017-09-14
+22,Drug_22,kD83,Russell Group,2016-03-31
+23,Drug_23,OS64,Hancock Inc,2020-10-12
+24,Drug_24,Ru83,Gray Group,2021-09-27
+25,Drug_25,cZ03,House-Glover,2016-03-19
+26,Drug_26,re56,Henderson-Bernard,2021-08-16
+27,Drug_27,Tu39,"Stanley, Tucker and Lee",2019-02-10
+28,Drug_28,zP37,Novak PLC,2019-10-13
+29,Drug_29,qi72,"Daniels, Adkins and Brown",2017-04-14
+30,Drug_30,Iq38,"Woods, Calhoun and Schmidt",2021-07-21
+31,Drug_31,Lz96,Yu Inc,2022-06-14
+32,Drug_32,iG53,Jones Inc,2018-03-02
+33,Drug_33,Wd71,"Hensley, Powell and David",2019-07-26
+34,Drug_34,Ok12,"Sanchez, Wheeler and Harvey",2018-04-20
+35,Drug_35,ey69,Sandoval-Cunningham,2018-07-20
+36,Drug_36,DH69,Donovan-Harris,2022-07-20
+37,Drug_37,aR48,"Edwards, Baker and Anderson",2015-12-17
+38,Drug_38,Wr18,"Evans, Stewart and Walton",2018-08-03
+39,Drug_39,sB51,Smith PLC,2021-03-10
+40,Drug_40,aU27,"Ferrell, Jones and Lewis",2022-07-17
+41,Drug_41,Wl48,Anderson-Bailey,2019-10-05
+42,Drug_42,Ot81,Suarez LLC,2020-01-28
+43,Drug_43,mj89,Moore-Bass,2018-03-31
+44,Drug_44,IX52,"Turner, Riggs and Roman",2017-05-17
+45,Drug_45,Mu80,"Smith, Montoya and Evans",2022-01-17
+46,Drug_46,hx70,"Garcia, Humphrey and Baker",2016-03-12
+47,Drug_47,dp43,Newton and Sons,2023-07-18
+48,Drug_48,fU91,Campbell-Clark,2019-04-28
+49,Drug_49,WI71,Harris-Walters,2018-12-07
+50,Drug_50,QE22,Wagner-King,2023-05-15
