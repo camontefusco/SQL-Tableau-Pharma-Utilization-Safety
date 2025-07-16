@@ -70,17 +70,22 @@ USE pharma_db;
 | Demographics by region      | Tableau       | Map & pie chart                 |
 | Prescription timelines      | Tableau       | Time-series chart               |
 | Patient safety summary      | SQL View      | `patient_safety_summary`        |
+## 📌 Example SQL Highlights
 
-📌 Example SQL Highlights
--- Adverse event count per drug (Top 5)
+### Adverse event count per drug (Top 5)
+
+```sql
 SELECT d.drug_name, COUNT(a.event_id) AS event_count
 FROM drugs d
 JOIN adverse_events a ON d.drug_id = a.drug_id
 GROUP BY d.drug_name
 ORDER BY event_count DESC
 LIMIT 5;
+```
 
--- Drug safety ranking using CTE and window function
+### Drug safety ranking using CTE and window function
+
+```sql
 WITH adverse_counts AS (
   SELECT drug_id, COUNT(*) AS adverse_event_count
   FROM adverse_events
@@ -90,6 +95,7 @@ SELECT d.drug_name, a.adverse_event_count,
        RANK() OVER (ORDER BY a.adverse_event_count DESC) AS safety_rank
 FROM adverse_counts a
 JOIN drugs d ON a.drug_id = d.drug_id;
+```
 
 📈 Dashboard Preview
 💡 Includes:
