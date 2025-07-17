@@ -45,10 +45,9 @@ All data is **synthetic** and created for educational purposes.
 
 1. Create the database:
 
-`sql
-CREATE DATABASE pharma_db;
+```sqlCREATE DATABASE pharma_db;
 USE pharma_db;
-
+```
 2. Run the table schema from schema/create_tables.sql.
 
 3. Import CSVs into each table using MySQL Workbench or CLI.
